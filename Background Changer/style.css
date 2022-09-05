@@ -1,0 +1,20 @@
+.box {
+    width: 50%;
+    background-color: rgb(114, 114, 47);
+    padding: 10px;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.box h1 {
+    text-align: center;
+    margin: 20px 0;
+    color: rgb(255, 255, 255);
+}
+
+.box div {
+    text-align: center;
+    margin: 20px 0;
+}
